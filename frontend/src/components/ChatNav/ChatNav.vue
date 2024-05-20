@@ -132,10 +132,6 @@ let navConfigs = ref([
     key: navType.reset,
     label: '一键重置',
   },
-  {
-    key: navType.about,
-    label: '关于'
-  },
 ]);
 
 const themeModeOptions = ref([
